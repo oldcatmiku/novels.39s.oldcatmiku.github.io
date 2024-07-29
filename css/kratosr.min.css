@@ -1328,6 +1328,7 @@ body.scroll-down.nav-up #kratos-desktop-topnav {
 }
 
 #kratos-blog-post p {
+    line-height: 2.3;
     display: block
 }
 
